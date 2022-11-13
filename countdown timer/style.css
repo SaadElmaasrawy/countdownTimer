@@ -1,0 +1,29 @@
+*{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+body{
+    background-image: url('./bg.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.con{
+    display: flex;
+    text-align: center;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+.cc{
+    font-size: 6rem;
+    margin: 0 2rem;
+}
